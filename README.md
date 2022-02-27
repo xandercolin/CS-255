@@ -1,4 +1,4 @@
-# CS-255
+# CS-255 - JOSEPH TRICHE
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
 DriverPass was a company that wished to create a system that offered practice tests that prepared students to take their driving exam at the DMV. The system would also be able to make driving lesson reservations. In this course, we utilized an interview transcript to devise the requirements of the system. These requirements then became the basis for the UML diagrams.
